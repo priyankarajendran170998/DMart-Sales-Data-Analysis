@@ -72,3 +72,27 @@ Excel Source Data
 | Database | SQL Server |
 | Data Visualization | Power BI |
 | Dashboard Features | KPIs, Slicers, Custom Tooltip, Drill-through |
+
+---
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+The Power BI dashboard tracks the following key business metrics:
+
+- 💰 Total Sales: 2.35M
+- 📈 Total Profit: 283.20K
+- 📅 Year-to-Date (YTD) Sales: 755.03K
+- 📊 Year-over-Year (YoY) Growth: 47.4%
+- 🎯 Profit Margin: 12.1%
+
+### Additional Analysis
+
+- Sales by Category
+- Sales by Customer Segment
+- Profit by Region
+- Monthly Sales Trend
+- Interactive filtering using Segment, Region, and Category slicers
+- Custom Tooltip for enhanced data exploration
+- Drill-through page for detailed category-level analysis
