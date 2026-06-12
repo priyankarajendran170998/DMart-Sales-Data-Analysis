@@ -107,3 +107,31 @@ The Power BI dashboard tracks the following key business metrics:
 - Monthly sales show noticeable fluctuations with seasonal peaks during certain periods.
 - The dashboard enables interactive analysis using Segment, Region, and Category slicers.
 - Custom Tooltips and Drill-through functionality provide detailed, context-specific insights for better business analysis.
+
+  ---
+
+## 📂 Repository Structure
+
+```text
+DMart-Sales-Data-Analysis/
+│
+├── data/
+│   └── README.md
+│
+├── images/
+│   ├── DMart_Dashboard_Overview.png
+│   ├── DMart_Custom_Tooltip.png
+│   └── DMart_Drillthrough_Analysis.png
+│
+├── powerbi/
+│   ├── DMart_Data_Store.pbix
+│   └── README.md
+│
+├── python/
+│   └── README.md
+│
+├── sql/
+│   └── README.md
+│
+└── README.md
+```
