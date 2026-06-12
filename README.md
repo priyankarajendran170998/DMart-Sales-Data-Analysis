@@ -23,3 +23,19 @@ Excel Source Data
 → Python (Data Cleaning & ETL)
 → SQL Server (Data Storage & Analysis)
 → Power BI (Interactive Dashboard & Business Insights)
+
+---
+
+## 📊 Dashboard Preview
+
+### Main Dashboard
+
+![DMart Dashboard Overview](images/DMart_Dashboard_Overview.png)
+
+### Custom Tooltip
+
+![DMart Custom Tooltip](images/DMart_Custom_Tooltip.png)
+
+### Drillthrough Analysis
+
+![DMart Drillthrough Analysis](images/DMart_Drillthrough_Analysis.png)
