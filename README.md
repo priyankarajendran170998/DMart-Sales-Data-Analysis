@@ -46,3 +46,17 @@ Excel Source Data
 ### Drillthrough Analysis
 
 ![DMart Drillthrough Analysis](images/DMart_Drillthrough_Analysis.png)
+
+---
+
+## ✨ Project Features
+
+- End-to-end Data Analytics workflow
+- Data cleaning and preprocessing using Python
+- Data storage and querying using SQL Server
+- Interactive Power BI dashboard
+- Custom Tooltip implementation
+- Drill-through analysis
+- KPI tracking and business performance monitoring
+- Interactive slicers and filters
+- Visual representation of sales trends and profitability
