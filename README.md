@@ -96,3 +96,14 @@ The Power BI dashboard tracks the following key business metrics:
 - Interactive filtering using Segment, Region, and Category slicers
 - Custom Tooltip for enhanced data exploration
 - Drill-through page for detailed category-level analysis
+
+  ---
+
+## 💡 Key Business Insights
+
+- Technology is the highest-performing product category in terms of sales.
+- The Consumer segment contributes the largest share of total sales.
+- The Central region generates the highest overall profit among all regions.
+- Monthly sales show noticeable fluctuations with seasonal peaks during certain periods.
+- The dashboard enables interactive analysis using Segment, Region, and Category slicers.
+- Custom Tooltips and Drill-through functionality provide detailed, context-specific insights for better business analysis.
