@@ -110,10 +110,13 @@ The Power BI dashboard tracks the following key business metrics:
 
   ---
 
+  ---
+
 ## 📂 Repository Structure
 
 ```text
-DMart-Sales-Data-Analysis/
+
+  DMart-Sales-Data-Analysis/
 │
 ├── data/
 │   └── README.md
@@ -121,7 +124,8 @@ DMart-Sales-Data-Analysis/
 ├── images/
 │   ├── DMart_Dashboard_Overview.png
 │   ├── DMart_Custom_Tooltip.png
-│   └── DMart_Drillthrough_Analysis.png
+│   ├── DMart_Drillthrough_Analysis.png
+│   └── README.md
 │
 ├── powerbi/
 │   ├── DMart_Data_Store.pbix
@@ -133,5 +137,8 @@ DMart-Sales-Data-Analysis/
 ├── sql/
 │   └── README.md
 │
+├── .gitignore
+├── LICENSE
 └── README.md
-```
+
+
