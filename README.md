@@ -60,3 +60,15 @@ Excel Source Data
 - KPI tracking and business performance monitoring
 - Interactive slicers and filters
 - Visual representation of sales trends and profitability
+
+  ---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools Used |
+|----------|------------|
+| Data Source | Microsoft Excel |
+| Data Cleaning | Python |
+| Database | SQL Server |
+| Data Visualization | Power BI |
+| Dashboard Features | KPIs, Slicers, Custom Tooltip, Drill-through |
