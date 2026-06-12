@@ -7,6 +7,13 @@ This project is an end-to-end Data Analytics solution developed to analyze DMart
 The workflow includes data cleaning, transformation, storage, analysis, and interactive dashboard creation to support data-driven decision-making.
 
 ---
+## 🎯 Business Objective
+
+The objective of this project is to analyze DMart sales data and uncover meaningful business insights related to sales performance, profitability, customer segments, product categories, and regional trends.
+
+By leveraging data analytics and interactive visualizations, the project helps stakeholders monitor key performance indicators (KPIs), identify growth opportunities, and support data-driven business decisions.
+
+---
 
 ## 🛠️ Tech Stack
 
